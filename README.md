@@ -32,6 +32,21 @@ Skill untuk debugging complex/unintuitive bugs dan interpretasi ambiguous reques
 
 Bekerja exceptionally well dengan `hyper-focus-solver`.
 
+### smart-analyzer
+Deep-analysis skill untuk diagnosing bugs, tracing data flows, dan investigative tasks dengan minimal token usage. Production-safe design.
+
+**Fitur:**
+- Deep analysis: trace data flow, multiple hypotheses, falsify assumptions
+- Light investigative tasks: database queries, log inspection, API debugging
+- Token-efficient: surgical queries, targeted reads
+- Production-safe: read-only by default, permission-required untuk mutations
+
+**Scope:**
+- Gunakan saat perlu *execute* untuk gather evidence (query, grep, read logs)
+- Berbeda dengan deep-thinking yang pure reasoning tanpa execution
+
+Bisa hand off ke skill lain: deep-thinking (tradeoffs), skill-creator, docx, xlsx sesuai kebutuhan.
+
 ## Use Cases
 
 - **hyper-focus-solver**: Light/medium/heavy problem-solving, fix erratic AI thinking
