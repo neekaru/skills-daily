@@ -49,7 +49,8 @@ Bisa hand off ke skill lain: deep-thinking (tradeoffs), skill-creator, docx, xls
 
 ## Use Cases
 
-- **hyper-focus-solver**: Light/medium/heavy problem-solving, fix erratic AI thinking
-- **deep-thinking**: Complex bugs, ambiguous instructions, precision-critical tasks
+- **hyper-focus-solver**: Light/medium/heavy problem-solving, fix erratic AI thinking, surgical code fixes
+- **deep-thinking**: Complex bugs dengan root cause tidak jelas, ambiguous instructions, architectural reasoning
+- **smart-analyzer**: Deep debugging dengan live evidence gathering, database/log/API investigation, production diagnostics
 
-Kedua skills bisa digunakan **bersamaan** atau **standalone** sesuai kebutuhan.
+Semua skills bisa digunakan **bersamaan** atau **standalone** sesuai kebutuhan task.
