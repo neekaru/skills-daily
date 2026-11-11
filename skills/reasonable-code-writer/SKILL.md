@@ -1,4 +1,3 @@
-
 ---
 name: reasonable-code-writer
 description: Write or refactor source code so that its intent, naming, control flow, and abstractions are easy for humans to understand without unnecessary complexity. Use for implementing simple maintainable solutions or applying readability findings while preserving behavior, security, and existing contracts.
